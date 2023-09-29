@@ -20,3 +20,7 @@ Open questions:
 - Am I correctly calculating how the areas changes with latitude
 - Comparing with this [animation](https://zacklabe.files.wordpress.com/2023/02/zonal_surfaceairtemperature_best_2022.gif) , the general trends are similar but they are noticeably different from my time series animation. Is this because the BEST and GISTEMP datasets are different or is it due to an error in my visualization code? 
 - How could I improve the styling of the figures to improve their readability?
+
+![Global Temp Anomaly for August 2023](tempanomaly.png)
+
+![Global Temp with Latitude over Time](anim.gif)
