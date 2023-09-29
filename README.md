@@ -2,6 +2,8 @@
 
 An example of an open, reproducible research result for a work-in-progress animation
 
+[![DOI](https://zenodo-dev.cern.ch/badge/698351812.svg)](https://zenodo-dev.cern.ch/badge/latestdoi/698351812)
+
 In September 2023, there was an online article that [NASA Announces Summer 2023 Hottest on Record](https://www.nasa.gov/news-release/nasa-announces-summer-2023-hottest-on-record/).
 
 Using NASA’s GISS Surface Temperature Analysis (GISTEMP v4) dataset let’s explore this dataset and create an open, reproducible result showing how the global temperature have been changing since 1900.
